@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <Project.UserMessageModel>
+      <username>JD123</username>
+      <title>Hello</title>
+      <body>This is a mesage</body>
+      <date>21.12.2020 13:3</date>
+      <priority>Normal</priority>
+      <group>Games</group>
+    </Project.UserMessageModel>
+  </list>
+</object-stream>

@@ -1,0 +1,16 @@
+<object-stream>
+  <list>
+    <Project.GroupModel>
+      <Group>Games</Group>
+    </Project.GroupModel>
+    <Project.GroupModel>
+      <Group>Prices</Group>
+    </Project.GroupModel>
+    <Project.GroupModel>
+      <Group>Updates</Group>
+    </Project.GroupModel>
+    <Project.GroupModel>
+      <Group>Xbox</Group>
+    </Project.GroupModel>
+  </list>
+</object-stream>
